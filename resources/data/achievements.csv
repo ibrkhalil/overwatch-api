@@ -1,0 +1,74 @@
+id,name,description,hero_id,reward_id
+1,Level 10,Reach level 10.,,30
+2,Level 25,Reach level 25.,,40
+3,Level 50,Reach level 50.,,39
+4,Centenary,Win 100 games in Quick or Competitive Play.,,44
+5,Die Die Die... Die,Kill 4 enemies with a single use of Reaper's Death Blossom in Quick or Competitive Play.,12,324
+6,The Friend Zone,Play a Quick or Competitive Play game in a group with a friend.,,33
+7,Slice and Dice,Kill 4 enemies with a single use of Genji's Dragonblade in Quick or Competitive Play.,4,122
+8,Undying,Get a 20 player kill streak in Quick or Competitive Play.,,42
+9,The Path Is Closed,Destroy 3 of Symmetra's Teleporters in a single Quick or Competitive Play game.,,41
+10,Survival Expert,Use health packs to heal 900 health in a single life in Quick or Competitive Play.,,36
+11,Decorated,Earn 50 postgame medals in Quick or Competitive Play.,,45
+12,Decked Out,Collect 50 unlocks for a single hero.,,34
+13,Their Own Worst Enemy,Kill 2 enemies with a single use of Genji's Deflection in Quick or Competitive Play.,4,133
+14,"Waste Not, Want Not",Get 3 solo kills with a single clip of Reaper's shotguns in Quick or Competitive Play.,12,335
+15,Whoa There!,Interrupt an enemy ultimate ability with McCree's Flashbang in Quick or Competitive Play.,8,236
+16,It's High Noon,Get 4 killing blows with a single use of McCree's Deadeye in Quick or Competitive Play.,8,226
+17,Death From Above,Kill 4 enemies in a row without touching the ground as Pharah in Quick or Competitive Play.,11,301
+18,Clearing the Area,Knock an enemy to their death using Pharah's Concussive Blast in Quick or Competitive Play.,11,308
+19,Blackjack,Earn 21 postgame cards in Quick or Competitive Play.,,43
+20,Rocket Man,Get 2 killing blows with a single use of Soldier: 76's Helix Rockets in Quick or Competitive Play.,15,411
+21,Target Rich Environment,Kill 4 enemies with a single use of Soldier: 76's Tactical Visor in Quick or Competitive Play.,15,400
+22,Special Delivery,Stick 4 of Tracer's Pulse Bombs onto enemies in a single Quick or Competitive Play game.,18,478
+23,Power Overwhelming,Keep Zarya's particle cannon above 70 power for 60 seconds in Quick or Competitive Play.,21,561
+24,The Power of Attraction,Capture 5 enemies in a single use of Zarya's Graviton Surge in Quick or Competitive Play.,21,554
+25,The Floor Is Lava,Get 3 killing blows while wall riding as Lúcio without dying in Quick or Competitive Play.,7,210
+26,Supersonic,Block 1000 damage with a single use of Lúcio's Sound Barrier in Quick or Competitive Play.,7,202
+27,Group Health Plan,Restore 200 health for 5 players without dying as Mercy in Quick or Competitive Play.,10,286
+28,Huge Rez,Resurrect 4 players at once with Mercy in Quick or Competitive Play.,10,275
+29,The Car Wash,Hit an enemy with 7 beams simultaneously as Symmetra in Quick or Competitive Play.,16,435
+30,Anger Management,Damage 6 enemies during a single use of Winston's Primal Rage in Quick or Competitive Play.,20,525
+31,Huge Success,Teleport 20 players in a single Quick or Competitive Play game as Symmetra.,16,428
+32,The Iris Embraces You,Restore 1500 health with a single use of Zenyatta's Transcendence in Quick or Competitive Play.,22,575
+33,Lockdown,Win a Capture map on defense without losing the first objective in Quick or Competitive Play.,,32
+34,Double Cap,Capture both objectives on a Capture map without dying in Quick or Competitive Play.,,29
+36,Escort Duty,Push a payload 100 meters without leaving it in Quick or Competitive Play.,,35
+37,Can't Touch This,Prevent the attacking team from touching the payload for 1 minute in Quick or Competitive Play.,,38
+38,Shutout,Win a Control map without the enemy capturing an objective in Quick or Competitive Play.,,37
+39,World Traveler,Win a Quick or Competitive Play game on 12 different maps.,,31
+40,Rapid Discord,Get 4 kills or assists with Zenyatta's Orb of Discord within 6 seconds in Quick or Competitive Play.,22,591
+41,Total Recall,Recover 400 health using Tracer's Recall without dying in Quick or Competitive Play.,18,486
+42,Mine Sweeper,Destroy 10 turrets or traps using Winston's Tesla Cannon without dying in Quick or Competitive Play.,20,535
+43,Giving You the Hook,Interrupt an enemy ultimate ability with Roadhog's Hook in Quick or Competitive Play.,14,390
+44,Triple Threat,Kill 2 enemies in each of Bastion's configurations without dying in Quick or Competitive Play.,2,91
+45,Charge!,Kill 4 enemies with a single use of Bastion's Configuration: Tank in Quick or Competitive Play.,2,79
+46,Simple Geometry,Get 2 killing blows with a single use of Hanzo's Scatter Arrow in Quick or Competitive Play.,5,161
+47,The Dragon Is Sated,Kill 4 enemies with one of Hanzo's Spirit Dragons in Quick or Competitive Play.,5,149
+48,Mine Like a Steel Trap,Knock an enemy into your Steel Trap using Junkrat's Concussion Mine in Quick or Competitive Play.,6,188
+49,Roadkill,Kill 4 enemies with a single use of Junkrat's RIP-Tire in Quick or Competitive Play.,6,174
+50,Ice Blocked,Block 1200 damage with a single use of Mei's Ice Wall in Quick or Competitive Play.,9,260
+51,Hog Wild,Knock 2 enemies to their deaths with one use of Roadhog's Whole Hog in Quick or Competitive Play.,14,372
+52,Cold Snap,Freeze 4 enemies at once with Mei in Quick or Competitive Play.,9,253
+53,Armor Up!,Have one of Torbjörn's Armor Packs on 5 allies at the same time in Quick or Competitive Play.,17,463
+54,Pixel Spray,Kill 4 enemies using Widowmaker's Venom Mine during a single Quick or Competitive Play game.,19,511
+55,Smooth as Silk,Kill an enemy with a scoped headshot while airborne as Widowmaker in Quick or Competitive Play.,19,500
+56,Shot Down,Prevent 1500 damage with a single use of D.va's Defense Matrix in Quick or Competitive Play.,3,113
+58,Game Over,Kill 4 enemies with a single use of D.va's Self Destruct in Quick or Competitive Play.,3,101
+59,I Am Your Shield,Block 8000 damage with Reinhardt's Barrier Field without dying in Quick or Competitive Play.,13,361
+60,"Storm, Earth and Fire",Land Reinhardt's Fire Strike and Charge after an Earthshatter stun in Quick or Competitive Play.,13,350
+61,Raid Wipe,Kill 4 enemies during a single use of Torbjörn's Molten Core in Quick or Competitive Play.,17,451
+62,Enabler,Get 4 kills or assists with a single use of Ana's Nano Boost in Quick or Competitive Play.,1,51
+63,Naptime,Interrupt an enemy ultimate ability with Ana's Sleep Dart in Quick or Competitive Play.,1,63
+64,Four They Were,Win Junkenstein's Revenge using each of the 4 heroes.,,1666
+65,Survived the Night,Win Junkenstein's Revenge on medium difficulty.,,1667
+66,Not a Scratch,Win Junkenstein's Revenge on medium difficulty with no damage to the door.,,1669
+67,Held The Door,Win Junkenstein's Revenge on hard difficulty.,,1668
+68,Hack The Planet,Hack 15 enemies without dying as Sombra in quick or competitive play.,23,1737
+69,Power Outtage,Hack 6 enemies at once as Sombra in quick or competitive play.,23,1725
+70,Ambush!,Kill 3 enemies while they are picking up snow in a game of Mei's Snowball Offensive.,,1847
+71,Cool As Ice,Kill 4 enemies without missing in Mei's Snowball Offensive.,,1848
+72,Snowed In,Win Mei's Snowball Offensive without losing a round.,,1849
+73,Whap!,Kill an enemy with a snowball from 25 meters away in Mei's Snowball Offensive.,,1850
+74,Halt State,"Pull enemies into 1000 damage with a single use of Orisa's Halt! in quick or competitive play.",24,1896
+75,Overclocked,"Amplify 900 damage with a single use of Orisa's Supercharger in quick or competitive play.",24,1897

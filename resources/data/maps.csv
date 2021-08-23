@@ -1,0 +1,16 @@
+id,name,location,map_mode_id,event_id
+1,Dorado,Mexico,3,
+2,Eichenwalde,Germany,4,
+3,Estádio das Rãs,"Rio de Janeiro, Brazil",5,1
+4,Hanamura,Japan,1,
+5,Hollywood,"Los Angeles, California, United States of America",4,
+6,Ilios,Greece,2,
+7,King's Row,"London, England",4,
+8,Lijiang Tower,"Lijiang, China",2,
+9,Route 66,"Route 66, United States of America",3,
+10,Numbani,Nigeria,4,
+11,Nepal,Nepal,2,
+12,Temple of Anubis,Egypt,1,
+13,Volskaya Industries,Russia,1,
+14,Watchpoint: Gibraltar,The Rock of Gibraltar,3,
+15,Ecopoint: Antarctica,Antarctica,6,
